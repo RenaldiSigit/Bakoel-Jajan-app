@@ -1,0 +1,4 @@
+#Wed Jul 20 11:58:46 WIB 2022
+base.0=/Volumes/HomeMac/Bakoel_jajan_Mobile-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
